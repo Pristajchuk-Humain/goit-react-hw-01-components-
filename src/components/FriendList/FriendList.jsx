@@ -19,7 +19,7 @@ function FriendList ({ friends }) {
     })}
   </ul>
   )
-      }
+   }
 
 FriendList.protoType = {
   friends: PropTypes.arrayOf(
